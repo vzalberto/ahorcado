@@ -1,0 +1,10 @@
+Cliente                                    Servidor
+
+DIF     <n>         (1 <= n <= 3)          HOLA
+CHAR    <char>     (char in {a-z})         WRD <lenght>
+FIN                                        OK [posiciones]
+                                           REPETIDA
+                                           ERR
+
+
+
