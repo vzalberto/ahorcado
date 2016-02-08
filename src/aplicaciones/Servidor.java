@@ -32,6 +32,8 @@ public class Servidor {
                 
                 pw.println(BIENVENIDA);
                // bienvenida(pw);
+               
+               System.out.println(bf.readLine());
                 
            }
            catch(Exception e){
